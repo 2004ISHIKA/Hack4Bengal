@@ -4,28 +4,28 @@ FinMate is a modular Flask-based web app designed to help users track expenses, 
 ## 🔍 Brief Summary
 FinMate is a lightweight personal finance assistant that lets users:
 
-# Log their day-to-day expenses 🧾
+- **Log their day-to-day expenses 🧾**
 
-# Track and analyze their investment portfolio 📊
+-**Track and analyze their investment portfolio 📊**
 
-# Get AI-style smart investment suggestions based on risk profiles 📈
+-**Get AI-style smart investment suggestions based on risk profiles 📈**
 
-# Engage with gamified, icon-based selection for budgeting categories 🎮
+-**Engage with gamified, icon-based selection for budgeting categories 🎮**
 
-# It's ideal for students, young professionals, and anyone looking to build better financial habits with a touch of interactivity.
+-**It's ideal for students, young professionals, and anyone looking to build better financial habits with a touch of interactivity.**
 
-# #✨ Features
-# ✅ Expense Tracker: Add, view, and categorize daily expenses.
+## ✨ Features
+-**✅ Expense Tracker: Add, view, and categorize daily expenses.**
 
-# 🧠 Smart Advisor: Suggests investment strategies based on savings and risk appetite.
+-**🧠 Smart Advisor: Suggests investment strategies based on savings and risk appetite.**
 
-# 📋 Portfolio Manager: Track multiple investment types (FDs, stocks, mutual funds, gold, etc.).
+-**📋 Portfolio Manager: Track multiple investment types (FDs, stocks, mutual funds, gold, etc.).**
 
-# 🃏 Gamified UX: Card-based interactive input for selecting expenses and goals.
+-**🃏 Gamified UX: Card-based interactive input for selecting expenses and goals.**
 
-# 📅 Date-wise logging with summaries.
+-**📅 Date-wise logging with summaries.**
 
-# 📦 Modular, scalable Flask project structure.
+-**📦 Modular, scalable Flask project structure.**
 
 ## 🛠️ Tech Stack Used
 Layer	Technology
@@ -52,29 +52,29 @@ Kept core logic decoupled from storage so DB integration is smooth later.
 Focused on accessibility — minimal dependencies, mobile-friendly layout.
 
 ## 🚀 Steps to Run the Project
-# 1️⃣ Clone the repository
+-**1️⃣ Clone the repository**
 bash
 Copy
 Edit
 git clone https://github.com/your-username/finmate.git
 cd finmate
-# 2️⃣ Set up a virtual environment
+-**2️⃣ Set up a virtual environment**
 bash
 Copy
 Edit
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
-# 3️⃣ Install dependencies
+-**3️⃣ Install dependencies**
 bash
 Copy
 Edit
 pip install -r requirements.txt
-# 4️⃣ Run the Flask app
+-**4️⃣ Run the Flask app**
 bash
 Copy
 Edit
 python app.py
-# 5️⃣ Open in your browser
+-**5️⃣ Open in your browser**
 arduino
 Copy
 Edit
@@ -103,15 +103,15 @@ finmate/
     └── select/
         └── select_expenses.html
 ## 📌 Future Enhancements
-# 🔐 User login and session-based dashboards
+-**🔐 User login and session-based dashboards**
 
-# 📊 Graph-based summaries using Chart.js or Plotly
+-**📊 Graph-based summaries using Chart.js or Plotly**
 
-# 🧠 Real ML-powered advisory engine
+-**🧠 Real ML-powered advisory engine**
 
-# 🏦 Database-backed persistence (PostgreSQL or SQLite)
+-**🏦 Database-backed persistence (PostgreSQL or SQLite)**
 
-# 📱 Responsive mobile-first PWA version
+-**📱 Responsive mobile-first PWA version**
 
 ## 🤝 Contributors
 Created by Arka — built with ❤️ for a better financial future!
